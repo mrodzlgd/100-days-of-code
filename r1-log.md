@@ -55,6 +55,22 @@ https://scrimba.com/playlist/pqQgrcN
 --------------------------------------------------------------------------------------------------------------
 
 
+### R1D4 - March 14, Monday
+
+#### Today's Progress: 
+Continued the section: "Build an AirBnB Experiences clone" on Scrimba. 
+
+#### Thoughts: 
+Did not spend all the time I wanted to but did something.
+
+#### Link to work: 
+
+#### Resources: 
+https://scrimba.com/playlist/pqQgrcN
+
+--------------------------------------------------------------------------------------------------------------
+
+
 ### R1D? - 
 
 #### Today's Progress: 
