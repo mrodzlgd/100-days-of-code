@@ -71,6 +71,22 @@ https://scrimba.com/playlist/pqQgrcN
 --------------------------------------------------------------------------------------------------------------
 
 
+### R1D5 - March 15, Tuesday
+
+#### Today's Progress: 
+Continued to work on the "Build an AirBnB Experiences clone from the React Tutorial from Scrimba. 
+
+#### Thoughts: 
+Feeling a little under the weather so progress was not as desired.
+
+#### Link to work: 
+
+#### Resources: 
+https://scrimba.com/playlist/pqQgrcN
+
+--------------------------------------------------------------------------------------------------------------
+
+
 ### R1D? - 
 
 #### Today's Progress: 
